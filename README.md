@@ -1,3 +1,3 @@
 # JakubWypijew
 # This is my personal website 
-[https://github.com/JakubWypijew/JakubWypijew.git] (link to my website)
+[link to my website](https://github.com/JakubWypijew/JakubWypijew.git)
